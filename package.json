@@ -1,0 +1,23 @@
+{
+  "name": "job-finder",
+  "version": "1.0.0",
+  "description": "Criando aplicação de job-finder utilizando tecnologias como node, express e sqlite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiogoKRosa/Job-Finder.git"
+  },
+  "author": "diogo.kawaguchi.rosa@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiogoKRosa/Job-Finder/issues"
+  },
+  "homepage": "https://github.com/DiogoKRosa/Job-Finder#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.0.0"
+  }
+}
